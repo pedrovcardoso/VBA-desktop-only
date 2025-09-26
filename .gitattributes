@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Arquivos VBA: manter CRLF
+*.bas -text
+*.cls -text
+*.frm -text
